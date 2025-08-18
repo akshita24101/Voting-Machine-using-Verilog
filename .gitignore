@@ -1,0 +1,79 @@
+# Simulation files
+*.vcd
+*.wlf
+*.vstf
+*.wdb
+*.shm
+*.trn
+*.dsn
+work/
+transcript
+*.log
+
+# Synthesis files
+*.qpf
+*.qsf
+*.qws
+*.rpt
+*.summary
+*.smsg
+*.done
+*.jdi
+*.pin
+*.sof
+*.pof
+*.cdf
+*.sta.rpt
+db/
+incremental_db/
+output_files/
+
+# Vivado files
+*.xpr
+*.jou
+*.str
+*.xpe
+*.hw
+*.bit
+*.ltx
+*.debug
+*.cache/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.hw/
+
+# ModelSim files
+*.ini
+*.do
+*.mti
+*.qtl
+*.qdb
+*.qpg
+*.qtlm
+*.qmsg
+modelsim.ini
+
+# System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Quartus files
+*.qarlog
+*.qar
+*.sopcinfo
