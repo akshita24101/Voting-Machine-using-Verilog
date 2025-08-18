@@ -95,14 +95,11 @@ You can simulate the Voting Machine design directly on [EDA Playground](https://
 
 ---
 
-### 2. Modify Testbench for EDA Playground
+### 2. Waveform Generation in EDA Playground
 
-EDA Playground automatically handles waveform generation, so you can remove or comment out these lines in `testbench.sv`:
+EDA Playground automatically handles waveform generation.  
 
-```verilog
-$dumpfile("dump.vcd");
-$dumpvars(0, testbench);
-```
+---
 
 ### Expected Output
 
