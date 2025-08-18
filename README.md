@@ -77,9 +77,8 @@ Voting-Machine-using-Verilog/
 
 - **Simulator**: EDA Playground, Vivado, or any SystemVerilog-compatible simulator
 
-### Running the Simulation
 
-## Running the Voting Machine on EDA Playground
+### Running the Voting Machine on EDA Playground
 
 You can simulate the Voting Machine design directly on [EDA Playground](https://www.edaplayground.com/).
 
