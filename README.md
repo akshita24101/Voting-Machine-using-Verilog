@@ -42,7 +42,7 @@ module voting_machine (
 
 ## Voting Logic
 
-- **Valid Vote**: Only one button pressed at a time
+- **Valid Vote**: Only one button pressed at a time for a fixed amount of time  
 - **Invalid Vote**: Multiple buttons pressed simultaneously (ignored)
 - **LED Feedback**: LEDs blink for 5 clock cycles after a valid vote
 - **Winner Determination**: 
