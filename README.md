@@ -102,11 +102,10 @@ EDA Playground automatically handles waveform generation, so you can remove or c
 ```verilog
 $dumpfile("dump.vcd");
 $dumpvars(0, testbench);
-
+```
 
 ### Expected Output
 
-```
 ---- FINAL VOTE COUNTS ----  
 Votes for A: 0  
 Votes for B: 2  
