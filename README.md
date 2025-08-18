@@ -107,7 +107,7 @@ $dumpvars(0, testbench);
 ### Expected Output
 
 ```
----- FINAL VOTE COUNTS ----
+---- FINAL VOTE COUNTS ----  
 Votes for A: 0  
 Votes for B: 2  
 Votes for C: 4  
