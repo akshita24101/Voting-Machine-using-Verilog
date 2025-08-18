@@ -108,10 +108,10 @@ $dumpvars(0, testbench);
 
 ```
 ---- FINAL VOTE COUNTS ----
-Votes for A: 0
-Votes for B: 2
-Votes for C: 4
-Winner: C
+Votes for A: 0  
+Votes for B: 2  
+Votes for C: 4  
+Winner: C  
 
 ## Test Scenarios
 
@@ -162,4 +162,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*For questions or issues, please open an issue on GitHub or contact the maintainer.*
