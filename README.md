@@ -63,9 +63,9 @@ Voting-Machine-using-Verilog/
 │   └── timing_diagram.png         # Timing analysis
 ├── simulation/
 │   ├── dump.vcd                   # VCD waveform file
-│   └── simulation_results.txt     # Simulation output
-├── constraints/
-│   └── timing_constraints.sdc     # Synthesis constraints
+│   └── expected_outputs.txt       # Simulation output  
+|   └── test_report.md             # Test Report  
+|   └── waveform.png               # Waveform output  
 ├── README.md                      # This file
 ├── LICENSE                        # MIT License
 └── .gitignore                     # Git ignore file
