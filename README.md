@@ -58,9 +58,6 @@ Voting-Machine-using-Verilog/
 ├── src/
 │   ├── voting_machine.sv          # Main voting machine module
 │   └── testbench.sv               # Comprehensive testbench
-├── docs/
-│   ├── block_diagram.png          # System block diagram
-│   └── timing_diagram.png         # Timing analysis
 ├── simulation/
 │   ├── dump.vcd                   # VCD waveform file
 │   └── expected_outputs.txt       # Simulation output  
