@@ -62,13 +62,12 @@ Voting-Machine-using-Verilog/
 │   ├── dump.vcd                   # VCD waveform file
 │   └── expected_outputs.txt       # Simulation output  
 |   └── test_report.md             # Test Report  
-|   └── waveform.png               # Waveform output
-├── documents  
+|   └── waveform.png               # Waveform output  
 │   ├── block diagram    
 │   └── timing diagram  
-├── README.md                      # This file
-├── LICENSE                        # MIT License
-└── .gitignore                     # Git ignore file
+├── README.md                      # This file  
+├── LICENSE                        # MIT License  
+└── .gitignore                     # Git ignore file  
 ```
 
 ## Getting Started
